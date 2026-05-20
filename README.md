@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" style="border-radius:16px; margin-left: 20px;"/>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c3Ynh6bWR1OHl2NHg2ZXQ1dHQ1eWMwcDUzczR1cWRtYWQ3dDAyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="320" style="border-radius:16px; margin-left: 20px;"/>
 
 ## 🧬 `whoami`
 
