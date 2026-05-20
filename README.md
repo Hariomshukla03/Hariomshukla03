@@ -1,33 +1,62 @@
 <h1 align="center">Hey 👋, I'm Hariom Shukla</h1>
-<h3 align="center">🚀 Passionate Full Stack Web Developer from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">
+🚀 Full Stack Developer | React Native Developer | AI Enthusiast  
+</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=hariomshukla03&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hariomshukla03" />
+<h4 align="center">
+💻 Building Modern Apps • 📱 Crafting Mobile Experiences • ⚡ Exploring AI
+</h4>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+💻;React+Native+Developer+📱;MERN+Stack+Enthusiast+⚡;AI+%26+Automation+Explorer+🤖;Building+Cool+Things+Every+Day+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💫 About Me
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-```js
+## 👨‍💻 About Me
+
+```javascript
 const hariom = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "React", "Node.js", "MongoDB", "PHP"],
-    askMeAbout: ["Web Dev", "Frontend", "Backend", "UI Design"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "JavaScript"],
-            css: ["Tailwind CSS", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-            database: ["MongoDB", "MySQL"]
-        },
-        tools: ["Git", "GitHub", "Vercel", "Postman"]
-    },
+    location: "India 🇮🇳",
     
-    currentFocus: "Building Modern Full Stack Projects 🚀",
-    funFact: "I turn coffee ☕ into code 💻"
+    role: "Full Stack & React Native Developer",
+
+    currentFocus: [
+        "React Native Apps 📱",
+        "AI Integrated Projects 🤖",
+        "Modern UI/UX ✨",
+        "Backend Development ⚙️"
+    ],
+
+    learning: [
+        "React Native",
+        "Laravel",
+        "MERN Stack",
+        "System Design",
+        "AI Automation"
+    ],
+
+    collaborateOn: [
+        "Open Source",
+        "Mobile Apps",
+        "AI Projects",
+        "Full Stack Applications"
+    ],
+
+    askMeAbout: [
+        "React",
+        "React Native",
+        "Node.js",
+        "MongoDB",
+        "JavaScript",
+        "PHP",
+        "Backend APIs"
+    ],
+
+    funFact: "I build apps while listening to music 🎧"
 };
