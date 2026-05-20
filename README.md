@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://happy05dz.tumblr.com/post/164289564000/embed)" width="320" style="border-radius:16px; margin-left: 20px;"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" style="border-radius:16px; margin-left: 20px;"/>
 
 ## 🧬 `whoami`
 
@@ -37,11 +37,10 @@ const hariom: Developer = {
   ],
   stack: {
     frontend:  ["React ⚛️", "Next.js", "Tailwind", "HTML5", "CSS3"],
-    backend:   ["Node.js", "Express.js", "PHP"],
+    backend:   ["Node.js", "Express.js"],
     mobile:    ["React Native 📱"],
     database:  ["MongoDB 🍃", "MySQL"],
     devOps:    ["Git", "GitHub", "Vercel", "Postman"],
-    learning:  ["AI Integration 🤖", "TypeScript", "Docker"]
   },
   currentlyBuilding: "Something amazing 🔥",
   openToWork: true
