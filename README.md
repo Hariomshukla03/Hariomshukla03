@@ -128,18 +128,16 @@ const hariom: Developer = {
 ```
 
 ---
-## 🟢 System Online
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700"/>
+
+<h1>404: Limits Not Found.</h1>
+
+<p><i>Building the future, one commit at a time.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+
 </div>
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="90%"/>
-</div>
-
 ---
 
 ## 🤝 Let's Connect & Collaborate!
