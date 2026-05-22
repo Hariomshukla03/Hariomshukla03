@@ -131,11 +131,10 @@ const hariom: Developer = {
 
 <div align="center">
 
-<img width="100%" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
 
 # 404: Limits Not Found.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+cool+things...;One+commit+at+a+time.;Fueled+by+coffee+and+curiosity." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=#00F7FF&center=true&vCenter=true&width=700&lines=Building+cool+things...;One+commit+at+a+time.;Fueled+by+coffee+and+curiosity." />
 
 </div>
 
