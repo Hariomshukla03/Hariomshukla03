@@ -128,12 +128,10 @@ const hariom: Developer = {
 ```
 
 ---
-
-## 🌐 Open Source Journey
+## 🎧 Currently Vibing To
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="0"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212" />
 </div>
 
 ## 💬 Dev Quote of the Day
