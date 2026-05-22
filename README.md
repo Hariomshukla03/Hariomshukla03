@@ -129,13 +129,13 @@ const hariom: Developer = {
 
 ---
 
+## 💭 Philosophy
+
 <div align="center">
 
-<h1>404: Limits Not Found.</h1>
+# 404: Limits Not Found.
 
-<p><i>Building the future, one commit at a time.</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Beyond+Limits;Dream.+Code.+Repeat.;Turning+Ideas+Into+Reality" />
 
 </div>
 ---
