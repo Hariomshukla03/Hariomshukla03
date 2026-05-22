@@ -117,15 +117,14 @@ const hariom: Developer = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 ```
 ✅ Master React Native for cross-platform apps
-🔄 Deep dive into AI/ML Integration
-🔄 Build & launch 3 full-stack SaaS products
-⬜ Contribute to 10+ open source projects
+🔄 Build & launch full-stack SaaS products
+⬜ Contribute to open source projects
 ⬜ Land a dream full-stack role
-⬜ 1000+ GitHub contributions
+⬜ More GitHub contributions
 ```
 
 ---
