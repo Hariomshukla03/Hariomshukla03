@@ -129,19 +129,12 @@ const hariom: Developer = {
 
 ---
 
-## 📈 Contribution Snake 🐍
+## 🌐 Open Source Journey
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HariomShukla/HariomShukla/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HariomShukla/HariomShukla/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HariomShukla/HariomShukla/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="0"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
 </div>
-
-> 💡 *To enable the snake, set up the [GitHub Actions workflow](https://github.com/Platane/snk) in your profile repo!*
-
----
 
 ## 💬 Dev Quote of the Day
 
